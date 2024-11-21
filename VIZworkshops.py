@@ -46,3 +46,7 @@ plt.xlabel("Age")
 plt.ylabel("Platelets")
 plt.legend(["Survived", "Death"], title="Death Event")
 plt.show()
+
+
+#I used a data set provided to me from my machine learning class I take at UVA. I have uploaded the data set onto my repo
+#I also used stack overflow and chat to help me clean my code up and make my visualization appear cleaner 
